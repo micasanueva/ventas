@@ -27,11 +27,11 @@
   text-align: center;
   display:  block;
   width: 100px;
-  color: #fff;
+  color: rgb(129, 230, 90);
   text-decoration: none;
   padding: 7px;
   margin-top: 10px;
-  border: 3px solid rgb(165, 17, 17);
+  border: 3px solid rgb(182, 157, 48);
   border-radius: 60px;
 }
 
