@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "88ae7d00391a440ac7ccd009bcb34e4e",
+      "css": "guidedog",
+      "code": 59393,
+      "src": "elusive"
+    },
+    {
+      "uid": "9d3e9faf68fd4e12def853f0d4e1173b",
+      "css": "whatsapp kent",
+      "code": 62002,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "wg849ixsobykxshs6efpc6fk4m0fq8bh",
+      "css": "mail  ken",
+      "code": 59394,
+      "src": "typicons"
+    },
+    {
+      "uid": "829c06a0a3b73b02a6224f4bbb73d99c",
+      "css": "home ken",
+      "code": 59395,
+      "src": "elusive"
+    },
+    {
+      "uid": "559647a6f430b3aeadbecd67194451dd",
+      "css": "menu",
+      "code": 61641,
+      "src": "fontawesome"
+    }
+  ]
+}

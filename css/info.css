@@ -23,6 +23,9 @@
         width: 40%;
     }
 }
+
 @media (min-width:1024px) {
     .info-index {
-        width: auto;}   
+        width: auto;
+    }
+}
